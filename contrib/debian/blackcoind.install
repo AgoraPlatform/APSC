@@ -1,0 +1,2 @@
+debian/bin/agorad usr/bin
+src/agorad usr/lib/agora
