@@ -4,3 +4,5 @@ AGORA Platform sees our team as Swiss Army knife in the crypto world. Platform h
 It would be the short description. Platform is constantly in development and we will be pleased if you join us or support us.
 
 agoraplatform.online
+https://discord.gg/qRYqmJP
+Airdrops and giveaway on discord
