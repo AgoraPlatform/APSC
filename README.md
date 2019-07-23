@@ -37,6 +37,9 @@ CoinGecko -- https://www.coingecko.com/ico/agora-platformm
 CoinCodex -- https://coincodex.com/crypto/agora-platform/
 IcoHolder -- https://icoholder.com/en/agora-platform-285166
 
+Exchange -- https://altmarkets.io/trading/apscbtc
+https://altmarkets.io/trading/apscdoge
+
 Airdrop & Tipbot/Faucet: 
 
 Join the Discord https://discord.gg/VUdE38h to participate in Airdrops and Bountys and also recieve APSC Tips
